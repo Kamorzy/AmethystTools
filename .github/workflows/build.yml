@@ -29,6 +29,9 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: ${{ matrix.java }}
+      - name: make gradle wrapper linux compatible
+        if: ${{ runner.os != 'Windows' }}
+        run: gradle wrapper
       - name: make gradle wrapper executable
         if: ${{ runner.os != 'Windows' }}
         run: chmod +x ./gradlew
