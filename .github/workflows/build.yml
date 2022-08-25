@@ -3,6 +3,9 @@
 # certain platforms or Java versions, and provides a first line of defence
 # against bad commits.
 
+# Taken from Fabric example mod at:
+# https://github.com/FabricMC/fabric-example-mod/blob/1.19/.github/workflows/build.yml
+
 name: build
 on: [pull_request, push]
 
