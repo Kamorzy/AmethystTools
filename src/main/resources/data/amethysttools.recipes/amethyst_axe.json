@@ -1,0 +1,21 @@
+    {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "SS ",
+        "S| ",
+        " | "
+      ],
+      "key": {
+        "S": {
+          "item": "minecraft:amethyst_cluster"
+        },
+        "|": {
+          "item": "minecraft:stick"
+        }
+      },
+      "result": {
+        "item": "amethysttools:amethyst_axe",
+        "count": 1
+      }
+    }
+

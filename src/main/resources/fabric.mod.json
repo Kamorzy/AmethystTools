@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "amethysttools",
+  "version": "${version}",
+
+  "name": "Amethyst Tools",
+  "description": "Amethyst tools: Budget diamond. Increased enchantability, lower durability than diamond, as fast as diamond, can't mine obsidian, needs silk touch for amethyst clusters",
+  "authors": [
+    "fuzzimoda"
+  ],
+  "contact": {
+    "homepage": "http://curseforge.com/minecraft/mc-mods/amethyst-tools",
+    "sources": "https://github.com/fuzzimoda/Amethyst-Tools",
+    "issues": "https://github.com/fuzzimoda/Amethyst-Tools/issues"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/amethysttools/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fuzzimoda.amethysttools.AmethystToolsInitializer"
+    ],
+	"client": [
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.0",
+    "fabric-resource-loader-v0": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+  },
+  "custom": {
+    "modupdater": {
+    }
+  }
+}
