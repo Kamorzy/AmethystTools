@@ -1,3 +1,3 @@
 # Amethyst Tools
 
-This is a mod for Minecraft that adds Amethyst tools
+This is a Fabric mod for Minecraft that adds Amethyst tools
