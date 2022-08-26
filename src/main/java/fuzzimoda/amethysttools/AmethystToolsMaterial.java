@@ -14,12 +14,12 @@ public class AmethystToolsMaterial implements ToolMaterial {
 
     @Override
     public int getDurability() {
-        return 1198;
+        return 960;
     };
 
     @Override
     public float getMiningSpeedMultiplier() {
-        return 8.0f;
+        return 7.33f;
     };
 
     @Override
