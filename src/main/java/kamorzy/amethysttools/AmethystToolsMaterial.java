@@ -1,10 +1,9 @@
-package fuzzimoda.amethysttools;
+package kamorzy.amethysttools;
 
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
 import net.fabricmc.yarn.constants.MiningLevels;
 import net.minecraft.recipe.Ingredient;
-import net.minecraft.item.Item;
 
 public class AmethystToolsMaterial implements ToolMaterial {
 
@@ -14,17 +13,17 @@ public class AmethystToolsMaterial implements ToolMaterial {
 
     @Override
     public int getDurability() {
-        return 960;
+        return 1062;
     };
 
     @Override
     public float getMiningSpeedMultiplier() {
-        return 7.33f;
+        return 8.0f;
     };
 
     @Override
     public float getAttackDamage() {
-        return 1.0f;
+        return 3.0f;
     };
 
     @Override
