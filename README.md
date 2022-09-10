@@ -23,7 +23,7 @@ The stats for amethyst, related to vanilla materials, are:
 
 It has a mining level of iron, so it cannot mine obsidian.
 
-Its recipes use amethyst clusters, so silk touch is normally needed to craft amethyst tools. Alternatively, amethyst clusters can now also be obtained by breaking budding amethyst blocks with any pickaxe.
+Its recipes use amethyst clusters, so silk touch is normally needed to craft amethyst tools. Alternatively, 0-3 amethyst clusters are now also dropped when budding amethyst blocks are broken with any pickaxe.
 
 ## License
 [GNU Lesser General Public License v3](https://github.com/Kamorzy/AmethystTools/blob/master/LICENSE)
