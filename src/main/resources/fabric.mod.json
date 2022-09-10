@@ -9,12 +9,12 @@
     "Kamorzy"
   ],
   "contact": {
-    "homepage": "http://curseforge.com/minecraft/mc-mods/amethyst-tools",
-    "sources": "https://github.com/fuzzimoda/Amethyst-Tools",
-    "issues": "https://github.com/fuzzimoda/Amethyst-Tools/issues"
+    "homepage": "https://modrinth.com/mod/amethyst-tools",
+    "sources": "https://github.com/Kamorzy/Amethyst-Tools",
+    "issues": "https://github.com/Kamorzy/Amethyst-Tools/issues"
   },
 
-  "license": "MIT License",
+  "license": "LGPLv3",
   "icon": "assets/amethysttools/icon.png",
 
   "environment": "*",
