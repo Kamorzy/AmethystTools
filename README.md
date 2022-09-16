@@ -1,14 +1,12 @@
 # Amethyst Tools
 ## Purpose
-
 Amethyst tools are meant to be an early game alternative to rushing for diamond. They are much better than iron if you can find a geode early. However, since finding geodes is unreliable, its most common use is likely for players who'd rather take their time in the early game, but want to still build things without having to constantly replace iron tools.
 
 ## Mechanics
-Breaking a budding amethyst block now drops 0-1 amethyst clusters
+- Breaking a budding amethyst block now drops 0-1 amethyst clusters
+- Amethyst tools have the mining level of iron, so they can't mine obsidian
 
-Amethyst tools have the mining level of iron, so they can't mine obsidian
-
-Recipes:
+**Recipes:**
 
 <img src=https://imgur.com/y8RWDWk.gif>
 
