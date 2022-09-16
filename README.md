@@ -1,33 +1,28 @@
 # Amethyst Tools
-
-This is a Fabric mod for Minecraft that adds amethyst tools, an optional step between iron and diamond tools.
-
 ## Purpose
 
-Amethyst tools are meant to be an early game alternative to rushing for diamond. Its mostly geared for players who'd rather take their time in the early game, but want to still build things without having to constantly replace iron tools.
+Amethyst tools are meant to be an early game alternative to rushing for diamond. They are much better than iron if you can find a geode early. However, since finding geodes is unreliable, its most common use is likely for players who'd rather take their time in the early game, but want to still build things without having to constantly replace iron tools.
 
-## Details
+## Mechanics
+Breaking a budding amethyst block now drops 0-1 amethyst clusters
 
-The stats for amethyst, related to vanilla materials, are:
+Amethyst tools have the mining level of iron, so they can't mine obsidian
 
-| Material | Speed | Durability | Enchantability |
-| -------- | ----- | ---------- | -------------- |
-| Gold     | 12    | 32         | 22             |
-| Iron     | 6     | 250        | 14             |
-| Amethyst | 7.5   | 1062       | 19             |
-| Diamond  | 8     | 1561       | 10             |
+Recipes:
+<img src=https://imgur.com/y8RWDWk.gif>
 
-It has a mining level of iron, so it cannot mine obsidian.
+## Stats
 
-Its recipes use amethyst clusters, so silk touch is normally needed to craft amethyst tools. However, 0-3 amethyst clusters are now also dropped when budding amethyst blocks are broken with any pickaxe.
-
-## Comments
-
-The respectable stats and very high enchantability makes them useful for quickly getting into early game projects. This is balanced by the luck needed to find a geode. It'll also require the player to break budding amethyst blocks to get amethyst clusters, unless they've found a way to get Silk Touch already.
-
-Diamond outclasses it in everything except enchantability, making it totally reasonable to just skip amethyst entirely and focus that time and energy on diamond tools.
-
-Amethyst tools are also good "disposable" tools after getting good diamond tools. If you need to risk your equipment (e.g. in the Nether or End), amethyst tools have a much lower time investment to replace than diamond.
+| Material  | Durability | Speed | Level | Damage | Enchantability |
+|:---------:|:----------:|:-----:|:-----:|:------:|:--------------:|
+|   Wood    |     59     |   2   |   0   |   0    |       15       |
+|   Stone   |    131     |   4   |   1   |   1    |       5        |
+|   Iron    |    250     |   6   |   2   |   2    |       14       |
+| Amethyst  |    1061    |  7.5  |   2   |   3    |       19       |
+|  Diamond  |    1561    |   8   |   3   |   3    |       10       |
+| Netherite |    2031    |   9   |   4   |   4    |       15       |
+|    ---    |    ---     |  ---  |  ---  |  ---   |      ---       |
+|   Gold    |     32     |  12   |   0   |   0    |       22       |
 
 ## License
 [<img src="https://imgur.com/IWZvb2r.png">](https://github.com/Kamorzy/AmethystTools/blob/master/LICENSE)
