@@ -9,6 +9,7 @@ Breaking a budding amethyst block now drops 0-1 amethyst clusters
 Amethyst tools have the mining level of iron, so they can't mine obsidian
 
 Recipes:
+
 <img src=https://imgur.com/y8RWDWk.gif>
 
 ## Stats
